@@ -3,7 +3,7 @@ import os
 import discord
 import sys
 
-
+#new
 class class_warnings:
     def __init__(self):
         pass
